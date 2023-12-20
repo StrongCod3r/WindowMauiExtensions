@@ -25,7 +25,7 @@ namespace WindowMaui
             this.MinimizeToggle(true);
             this.MaximizeToggle(true);
             this.TitleWindow("Main");
-            //this.Fullscreen();
+            this.FullscreenToggle(false);
 #endif
         }
 
