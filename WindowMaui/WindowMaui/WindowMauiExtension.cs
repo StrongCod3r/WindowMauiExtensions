@@ -149,7 +149,6 @@ namespace WindowMaui
                 }
             }
         }
-
-    }
 #endif
+    }
 }
